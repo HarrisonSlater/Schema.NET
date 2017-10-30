@@ -9,9 +9,10 @@
   </PropertyGroup>
 
   <PropertyGroup Label="Package">
-    <VersionPrefix>3.3.0</VersionPrefix>
+    <VersionPrefix>1</VersionPrefix>
     <Authors>Muhammad Rehan Saeed (RehanSaeed.com), Harrison Slater (messing around with some stuff)</Authors>
     <Product>Schema.NET.HarrisonSlaterFork</Product>
+    <PackageId>Schema.NET.HarrisonSlaterFork</PackageId>
     <Description>Schema.org objects turned into strongly typed C# POCO classes for use in .NET. All classes can be serialized into JSON/JSON-LD and XML, typically used to represent structured data in the head section of html page.</Description>
     <Copyright>Copyright © Muhammad Rehan Saeed. All rights Reserved</Copyright>
     <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
@@ -20,7 +21,7 @@
     <PackageIconUrl>https://raw.githubusercontent.com/HarrisonSlater/Schema.NET/master/Images/Icon.png</PackageIconUrl>
     <RepositoryUrl>https://github.com/HarrisonSlater/Schema.NET.git</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
-    <PackageTags>Schema;.NET;Schema.org;Schema.NET;Structured Data;Google Structured Data</PackageTags>
+    <PackageTags></PackageTags>
     <PackageReleaseNotes>Added array implicit conversion to Values&lt;T&gt;, fix serialization of enumerations, put name and description properties at the top, support combined classes, @id properties and use the all-layers.jsonld as the base.</PackageReleaseNotes>
   </PropertyGroup>
 
