@@ -118,8 +118,8 @@ This magic is all carried out using the `Value<T>`, `Value<T1, T2>`, `Value<T1, 
 
 | Name      | Operating System | Status |
 | :---      | :---             | :---   |
-| AppVeyor  | Windows          | [![AppVeyor Build status](https://ci.appveyor.com/api/projects/status/djxrpkw8ckyf24c1?svg=true)](https://ci.appveyor.com/project/RehanSaeed/schema-net) |
-| Travis CI | Linux & Mac      | [![Travis CI Build Status](https://img.shields.io/travis/RehanSaeed/Schema.NET.svg?maxAge=3600&label=travis)](https://travis-ci.org/RehanSaeed/Schema.NET) |
+| AppVeyor  | Windows          | [![AppVeyor Build status](https://ci.appveyor.com/api/projects/status/djxrpkw8ckyf24c1?svg=true)](https://ci.appveyor.com/project/HarrisonSlater/schema-net) |
+| Travis CI | Linux & Mac      | [![Travis CI Build Status](https://img.shields.io/travis/RehanSaeed/Schema.NET.svg?maxAge=3600&label=travis)](https://travis-ci.org/HarrisonSlater/Schema.NET) |
 
 ## NuGet Packages
 
