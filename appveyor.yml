@@ -50,7 +50,7 @@ deploy:
 - provider: NuGet
   name: production
   api_key:
-    secure: 73eFUWSfho6pxCy1VRP1H0AYh/SFiyEREV+/ATcoj0I+sSH9dec/WXs6H2Jy5vlS
+    secure: +tkXLCB3Woa4NJCBi62Vha3bT/YX42W0tAAv2fH/SVllcJXd9jehGCpXNeJCpgxD
   on:
     # Only publish from the master branch
     branch: master
