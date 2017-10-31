@@ -22,6 +22,12 @@ namespace Schema.NET
         /// A DeliveryMethod in which an item is collected on site, e.g. in a store or at a box office.
         /// </summary>
         [EnumMember(Value = "http://schema.org/OnSitePickup")]
-        OnSitePickup
+        OnSitePickup,
+
+        /// <summary>
+        /// A DeliveryMethod in which an item is delivered using a business owned delivery service (such as Domino's Pizza's fleet)
+        /// </summary>
+        [EnumMember(Value = "http://purl.org/goodrelations/v1#DeliveryModeOwnFleet")]
+        DeliveryModeOwnFleet
     }
 }
